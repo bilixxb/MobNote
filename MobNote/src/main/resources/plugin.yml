@@ -1,0 +1,11 @@
+name: MobNote
+version: '1.2 Developed for 1.17.1'
+main: com.bilixxb.mobnote.mobnote.MobNote
+api-version: 1.17
+prefix: MobNote
+authors: [ bili_xxb ]
+description: 一个可以复原22w46a中音符盒的插件
+commands:
+  mobnote:
+    description: 测试MobNote插件的加载情况的指令
+    usage: /<command>
