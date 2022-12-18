@@ -1,5 +1,5 @@
 name: MobNote
-version: '1.2 Developed for 1.17.1'
+version: '1.3.5 Redstone Supported'
 main: com.bilixxb.mobnote.mobnote.MobNote
 api-version: 1.17
 prefix: MobNote
